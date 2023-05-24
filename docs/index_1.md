@@ -10,3 +10,8 @@
 ```python title="test.py"
 --8<-- "docs/test.py"
 ```
+
+```python title="test.py"
+--8<-- "test.py"
+```
+
