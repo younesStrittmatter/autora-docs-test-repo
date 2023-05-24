@@ -1,3 +1,12 @@
+markdown_extensions:
+  admonition: {}
+  pymdownx.details: {}
+  pymdownx.superfences: {}
+  pymdownx.arithmatex: # required for equation display
+    generic: true
+  pymdownx.snippets: 
+    url_download: true
+
 nav:
 - Pooler_1:
   - Home: 'index_1.md'
