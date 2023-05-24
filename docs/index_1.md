@@ -4,5 +4,5 @@
 [a relative link](index_2.md)
 
 ```python title="test.py"
---8<-- "user-guide/experimentalists/pooler-1/test.py"
+--8<-- "test.py"
 ```
