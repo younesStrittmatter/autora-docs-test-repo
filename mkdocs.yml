@@ -1,3 +1,5 @@
+site_name: test
+
 markdown_extensions:
   admonition: {}
   pymdownx.details: {}
@@ -6,6 +8,8 @@ markdown_extensions:
     generic: true
   pymdownx.snippets: 
     url_download: true
+  markdown_include.include:
+    base_path: docs
 
 nav:
 - Pooler_1:
